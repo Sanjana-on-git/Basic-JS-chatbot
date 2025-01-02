@@ -23,7 +23,6 @@ body {
     display: flex;
     flex-direction: column;
     border: 3px solid rgb(72, 0, 80);
-    padding: 3px;
 }
 
 .chat-header {
